@@ -75,3 +75,7 @@
     line-height: 18px;
     color: var(--vermelho);
 }
+
+.erro__cep{
+    padding: 2em;
+}
